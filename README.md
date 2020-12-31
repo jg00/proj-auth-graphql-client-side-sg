@@ -1,14 +1,14 @@
-## GraphQL Server Side Setup For Login, Logout, Signup
+## GraphQL Client Side Setup For Login, Logout, Signup
 
-Server side Express with GraphQL schemas and mutations for login, logout, and signup.
+Client side setup with React and Apollo Client for login, logout, and signup.
 
 ###### Features
 
-- Express server with GraphQL
+- User is able to signup, login, logout out of the app using GraphQL queries and mutations.
 - GraphiQL
 - Utilize MongoDb Atlas
 
 ###### Technologies
 
-:coffee: **_ExpressJS_**
+:coffee: **_ReactJS_**
 :coffee: **_GraphQL_**
