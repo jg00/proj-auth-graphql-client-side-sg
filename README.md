@@ -6,7 +6,7 @@ Client side setup with React and Apollo Client for login, logout, and signup.
 
 - User is able to signup, login, logout out of the app using GraphQL queries and mutations.
 - GraphiQL
-- Utilize MongoDb Atlas
+- Utilize MongoDb Atlas Db
 
 ###### Technologies
 
